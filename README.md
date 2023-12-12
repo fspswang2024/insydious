@@ -1,5 +1,6 @@
 Click [HERE](https://let-def.github.io/insydious) to run the unlocker.
 
+112.12.12-acer bios use
 # Story
 
 My friend's Acer computer suddenly stopped working one day. We assume it is related to a faulty update or behavior, but in short:
